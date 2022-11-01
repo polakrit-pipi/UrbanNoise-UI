@@ -1,4 +1,4 @@
 # UrbanNoise-UI
 
-This project created by polakrit krajaisri ✌️
-UrbanNoise-UI having a inspiration form pinterest UI category 🤧
+This project was created by Polakrit Krajaisri ✌️
+<br>UrbanNoise-UI was inspired by the Pinterest UI category. 🤧
